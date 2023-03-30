@@ -1,3 +1,6 @@
+#
+# Template for Python program
+#
 import pandas as pd
 
 # 1. Input
