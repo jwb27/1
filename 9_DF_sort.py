@@ -13,9 +13,9 @@ print(raw_data)
 print(raw_data.info())
 
 # 2. Process
-MenuData = len(raw_data)
+M3nu = len(raw_data)
 data = raw_data.sort_values(["Menu"],ascending=True)
 
 # 3. Output
-print(f'count:{MenuData}')
+print(f'count:{M3nu}')
 print(data)
